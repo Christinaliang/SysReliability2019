@@ -1,7 +1,10 @@
 ## Alibaba_reliability_weekly-reports
 
-### IPCCC 2018 KPI
+### Paper
 
-* Original Paper
-* Summary PPT
+* Relevant papers
+
+### Report
+
+* Report oy summary of each week
 
