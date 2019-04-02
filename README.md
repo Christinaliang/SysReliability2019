@@ -6,5 +6,5 @@
 
 ### Report
 
-* Report / Summary of each week
+* Report/Summary of each week
 
